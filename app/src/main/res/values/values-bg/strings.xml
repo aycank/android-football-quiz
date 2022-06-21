@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mijn project</string>
+    <string name="draw">ik teken</string>
+
+    <string name="login">ik kom binnen</string>
+    <string name="register">ik registreer</string>
+    <string name="newhrere">nieuw hier</string>
+    <string name="createnewaccount">Maak een nieuw account aan</string>
+    <string name="fullname">Voor-en achternaam</string>
+    <string name="email">E-mail</string>
+    <string name="password">wachtwoord</string>
+    <string name="phone">telefoon</string>
+    <string name="chnagecolor">kleur verandering</string>
+    <string name="ok">Oke</string>
+    <string name="logout">log uit bij uw account</string>
+    <string name="start_quiz">Start een test</string>
+    <string name="sets">Sets</string>
+    <string name="language">taal</string>
+    <string name="share">Titel</string>
+    <string name="next">De volgende</string>
+    <string name="score">Het resultaat</string>
+    <string name="five">5</string>
+    <string name="out_of">VAN DE 10</string>
+    <string name="done">GEDAAN</string>
+    <string name="loading">Bezig met laden..</string>
+</resources>

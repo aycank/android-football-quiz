@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "222335069060",
+    "project_id": "football-quiz-b5024",
+    "storage_bucket": "football-quiz-b5024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222335069060:android:b9d2b76cbde6e060304bd1",
+        "android_client_info": {
+          "package_name": "com.example.myprojectportfoliio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222335069060-ogq7n309k5f7socc9nos4d0666ajdr0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myprojectportfoliio",
+            "certificate_hash": "6a83cf76cdd15a243fe21c0f854c932f438154c2"
+          }
+        },
+        {
+          "client_id": "222335069060-18u8gbo1cuc1q20ug9vggkg15tgu7ogi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA1QJK6lCt1E2WBeLZoYvVk-uGRJ6nI3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222335069060-18u8gbo1cuc1q20ug9vggkg15tgu7ogi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222335069060:android:e48efb942d97eb54304bd1",
+        "android_client_info": {
+          "package_name": "com.husssainpatel.quiz_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222335069060-hcj967j2ci11bmeoul66akvpa8utgo9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.husssainpatel.quiz_firestore",
+            "certificate_hash": "6a83cf76cdd15a243fe21c0f854c932f438154c2"
+          }
+        },
+        {
+          "client_id": "222335069060-18u8gbo1cuc1q20ug9vggkg15tgu7ogi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA1QJK6lCt1E2WBeLZoYvVk-uGRJ6nI3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222335069060-18u8gbo1cuc1q20ug9vggkg15tgu7ogi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
